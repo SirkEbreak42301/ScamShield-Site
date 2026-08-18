@@ -29,10 +29,10 @@ Use the URLs in browser-extension store submissions as follows:
 - **Privacy policy URL** → `privacy.html`
 - **Support URL** → `support.html`
 
-## Required content before publication
+## Publication content
 
-- Replace `[APPROVED PRIVACY POLICY CONTENT REQUIRED BEFORE PUBLICATION]` by faithfully converting the approved ScamShield `PRIVACY.md` into semantic HTML.
-- Replace `[SUPPORT_EMAIL_REQUIRED]` with the real support email address and make it a `mailto:` link.
+- The approved ScamShield `PRIVACY.md` is incorporated into `privacy.html`.
+- The support page links to `px4gaminghdr@gmail.com` using `mailto:`.
 - Add only approved, redacted screenshots to `assets/screenshots/`.
 - Add the approved ScamShield icon to `assets/logo/` if available, then use it as the site icon and favicon.
 
